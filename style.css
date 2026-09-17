@@ -1,0 +1,38 @@
+/* Seletor Universal */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Seletor de TAG */
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   color: #1a4582;
+   line-heigth: 1.6;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+a {
+    text-decoration: nome;
+    color: #29758a;
+}
+
+header{
+    background-color: #d6eff9ce;
+    color: #50c1e0
+    padding: 32px 16px;
+    text-align: center;
+}
